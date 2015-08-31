@@ -7,4 +7,9 @@ public class Test {
 	 System.out.println("gorilla glass");
  }
 
+public void mtd1()
+{	
+	System.out.println("Mtd 1 is printing");
+}
+
 }
